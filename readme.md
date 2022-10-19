@@ -26,15 +26,18 @@ Abstract: ...
 
 Install nodemon by using npm (the recommended way):
 
-```...\GeoNetverse> npm install -g nodemon
+```shell script
+...\GeoNetverse> npm install -g nodemon
 ```
 
-```...\GeoNetverse> npm install ts-node -g 
+```shell script
+...\GeoNetverse> npm install ts-node -g 
 ```
 
 Install packges of fronetend by using npm (the recommended way): enter GeoNetverse/frotend
 
-```...\GeoNetverse\frontend> npm install
+```shell script
+...\GeoNetverse\frontend> npm install
 ```
 
 ### Data Processing
@@ -43,19 +46,25 @@ To start with, geo-networks.json and geo-nodes-screen.json are required and plac
 ...\GeoNetverse\frontend\server\datasetName.json stores datasetName, to switch the dataset for processing, you only need to change the name in this json file.
 
 Then, you can start data processing by following commands orderly:
-```...\GeoNetverse\frontend> ts-node server/processing-1.ts
+
+```shell script
+...\GeoNetverse\frontend> ts-node server/processing-1.ts
 ```
 
-```...\GeoNetverse\frontend> ts-node server/processing-2-ilp-1.ts
+```shell script
+...\GeoNetverse\frontend> ts-node server/processing-2-ilp-1.ts
 ```
 
-```...\GeoNetverse\frontend> python server/ilp-scipy.py
+```shell script
+...\GeoNetverse\frontend> python server/ilp-scipy.py
 ```
 
-```...\GeoNetverse\frontend> ts-node server/processing-2-ilp-2.ts
+```shell script
+...\GeoNetverse\frontend> ts-node server/processing-2-ilp-2.ts
 ```
 
-```...\GeoNetverse\frontend> ts-node server/processing-3.ts
+```shell script
+...\GeoNetverse\frontend> ts-node server/processing-3.ts
 ```
 
 ### Run

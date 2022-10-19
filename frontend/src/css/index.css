@@ -1,0 +1,4 @@
+.leaflet-marker-icon, .leaflet-marker-shadow, .leaflet-image-layer, .leaflet-pane > svg path, .leaflet-tile-container {
+  /* pointer-events: none; */
+  pointer-events: all !important;
+}

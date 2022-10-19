@@ -1,0 +1,958 @@
+{
+	"0": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_12",
+			"nid": "0",
+			"nnid": "12",
+			"angle": 0.8478169733934057,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_2",
+			"nid": "0",
+			"nnid": "2",
+			"angle": 2.267320315379237,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_3",
+			"nid": "0",
+			"nnid": "3",
+			"angle": 3.036715714859559,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_18",
+			"nid": "0",
+			"nnid": "18",
+			"angle": 5.7188342064571565,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"1": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_5",
+			"nid": "1",
+			"nnid": "5",
+			"angle": 1.115345255544003,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_6",
+			"nid": "1",
+			"nnid": "6",
+			"angle": 2.145366902379234,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_7",
+			"nid": "1",
+			"nnid": "7",
+			"angle": 3.261271142867238,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_15",
+			"nid": "1",
+			"nnid": "15",
+			"angle": 4.880110550921287,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_21",
+			"nid": "1",
+			"nnid": "21",
+			"angle": 6.195779708816153,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"2": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_19",
+			"nid": "2",
+			"nnid": "19",
+			"angle": 0.7318778949381333,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_13",
+			"nid": "2",
+			"nnid": "13",
+			"angle": 2.184566421811465,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_10",
+			"nid": "2",
+			"nnid": "10",
+			"angle": 3.645903061117342,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_3",
+			"nid": "2",
+			"nnid": "3",
+			"angle": 4.6187042990211955,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_2",
+			"nid": "2",
+			"nnid": "0",
+			"angle": 5.40891296896903,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"3": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_3",
+			"nid": "3",
+			"nnid": "2",
+			"angle": 1.4771116454314022,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_10",
+			"nid": "3",
+			"nnid": "10",
+			"angle": 2.864856714967678,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_8",
+			"nid": "3",
+			"nnid": "8",
+			"angle": 4.042907193279758,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_16",
+			"nid": "3",
+			"nnid": "16",
+			"angle": 5.230971078898578,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_3",
+			"nid": "3",
+			"nnid": "0",
+			"angle": 6.178308368449352,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"4": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "4_20",
+			"nid": "4",
+			"nnid": "20",
+			"angle": 3.3300278797718397,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "4_14",
+			"nid": "4",
+			"nnid": "14",
+			"angle": 4.036231608513485,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"5": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_14",
+			"nid": "5",
+			"nnid": "14",
+			"angle": 1.3964829365261924,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_6",
+			"nid": "5",
+			"nnid": "6",
+			"angle": 3.089616388020882,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_5",
+			"nid": "5",
+			"nnid": "1",
+			"angle": 4.256937909133796,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_21",
+			"nid": "5",
+			"nnid": "21",
+			"angle": 5.351976214838023,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"6": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_20",
+			"nid": "6",
+			"nnid": "20",
+			"angle": 1.295886485314224,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_12",
+			"nid": "6",
+			"nnid": "12",
+			"angle": 2.338402773418122,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_18",
+			"nid": "6",
+			"nnid": "18",
+			"angle": 3.5904993156552893,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_7",
+			"nid": "6",
+			"nnid": "7",
+			"angle": 4.397511170009218,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_6",
+			"nid": "6",
+			"nnid": "1",
+			"angle": 5.286959555969028,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_6",
+			"nid": "6",
+			"nnid": "5",
+			"angle": 6.231209041610676,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"7": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_7",
+			"nid": "7",
+			"nnid": "1",
+			"angle": 0.11967848927744487,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_7",
+			"nid": "7",
+			"nnid": "6",
+			"angle": 1.2559185164194249,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "7_18",
+			"nid": "7",
+			"nnid": "18",
+			"angle": 2.4103287398042252,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "7_22",
+			"nid": "7",
+			"nnid": "22",
+			"angle": 3.8845919990613016,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"8": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_8",
+			"nid": "8",
+			"nnid": "3",
+			"angle": 0.9013145396899653,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "8_16",
+			"nid": "8",
+			"nnid": "16",
+			"angle": 6.166076562612722,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"9": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "9_22",
+			"nid": "9",
+			"nnid": "22",
+			"angle": 0.850242190950655,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "9_16",
+			"nid": "9",
+			"nnid": "16",
+			"angle": 2.160325646713526,
+			"numberOfIndividuals": -1,
+			"special": false
+		}
+	],
+	"10": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_10",
+			"nid": "10",
+			"nnid": "2",
+			"angle": 0.504310407527549,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_10",
+			"nid": "10",
+			"nnid": "3",
+			"angle": 6.006449368557471,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"12": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "12_20",
+			"nid": "12",
+			"nnid": "20",
+			"angle": 0.26318053621241194,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "12_19",
+			"nid": "12",
+			"nnid": "19",
+			"angle": 2.4909048102124305,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_12",
+			"nid": "12",
+			"nnid": "0",
+			"angle": 3.989409626983199,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_12",
+			"nid": "12",
+			"nnid": "6",
+			"angle": 5.479995427007915,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"13": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_13",
+			"nid": "13",
+			"nnid": "2",
+			"angle": 5.326159075401258,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "13_19",
+			"nid": "13",
+			"nnid": "19",
+			"angle": 6.160580602560762,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"14": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "4_14",
+			"nid": "14",
+			"nnid": "4",
+			"angle": 0.894638954923692,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "14_20",
+			"nid": "14",
+			"nnid": "20",
+			"angle": 2.8426124900869607,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_14",
+			"nid": "14",
+			"nnid": "5",
+			"angle": 4.5380755901159855,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"15": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_15",
+			"nid": "15",
+			"nnid": "1",
+			"angle": 1.7385178973314943,
+			"numberOfIndividuals": -1,
+			"special": false
+		}
+	],
+	"16": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "16_18",
+			"nid": "16",
+			"nnid": "18",
+			"angle": 0.6089576196365082,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "3_16",
+			"nid": "16",
+			"nnid": "3",
+			"angle": 2.0893784253087846,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "8_16",
+			"nid": "16",
+			"nnid": "8",
+			"angle": 3.024483909022929,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "9_16",
+			"nid": "16",
+			"nnid": "9",
+			"angle": 5.301918300303319,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "16_22",
+			"nid": "16",
+			"nnid": "22",
+			"angle": 5.903675938709951,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"17": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "17_19",
+			"nid": "17",
+			"nnid": "19",
+			"angle": 4.31386653471827,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"18": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_18",
+			"nid": "18",
+			"nnid": "6",
+			"angle": 0.44890666206549623,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "0_18",
+			"nid": "18",
+			"nnid": "0",
+			"angle": 2.5772415528673633,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "16_18",
+			"nid": "18",
+			"nnid": "16",
+			"angle": 3.750550273226301,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "18_22",
+			"nid": "18",
+			"nnid": "22",
+			"angle": 4.831817906403028,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "7_18",
+			"nid": "18",
+			"nnid": "7",
+			"angle": 5.551921393394018,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"19": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "17_19",
+			"nid": "19",
+			"nnid": "17",
+			"angle": 1.1722738811284763,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "13_19",
+			"nid": "19",
+			"nnid": "13",
+			"angle": 3.018987948970969,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "2_19",
+			"nid": "19",
+			"nnid": "2",
+			"angle": 3.8734705485279264,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "12_19",
+			"nid": "19",
+			"nnid": "12",
+			"angle": 5.632497463802223,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"20": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "4_20",
+			"nid": "20",
+			"nnid": "4",
+			"angle": 0.18843522618204678,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "12_20",
+			"nid": "20",
+			"nnid": "12",
+			"angle": 3.404773189802205,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "6_20",
+			"nid": "20",
+			"nnid": "6",
+			"angle": 4.437479138904017,
+			"numberOfIndividuals": -1,
+			"special": true
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "14_20",
+			"nid": "20",
+			"nnid": "14",
+			"angle": 5.984205143676753,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	],
+	"21": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "5_21",
+			"nid": "21",
+			"nnid": "5",
+			"angle": 2.2103835612482303,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "1_21",
+			"nid": "21",
+			"nnid": "1",
+			"angle": 3.05418705522636,
+			"numberOfIndividuals": -1,
+			"special": false
+		}
+	],
+	"22": [
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "7_22",
+			"nid": "22",
+			"nnid": "7",
+			"angle": 0.7429993454715085,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "18_22",
+			"nid": "22",
+			"nnid": "18",
+			"angle": 1.690225252813235,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "16_22",
+			"nid": "22",
+			"nnid": "16",
+			"angle": 2.762083285120158,
+			"numberOfIndividuals": -1,
+			"special": false
+		},
+		{
+			"slot": [
+				0,
+				0
+			],
+			"eKey": "9_22",
+			"nid": "22",
+			"nnid": "9",
+			"angle": 3.991834844540448,
+			"numberOfIndividuals": -1,
+			"special": true
+		}
+	]
+}

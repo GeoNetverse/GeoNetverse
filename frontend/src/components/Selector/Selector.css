@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+
+.selector {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.switch_container {
+    position: fixed;
+    height: 72px;
+    width: 180px;
+    border: solid 1px #999999;
+    line-height: 72px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 28px;
+    background: white;
+    top: 40px;
+    left: 80px;
+}
+
+.text_switch {
+    line-height: 72px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.select_switch {
+    margin-top: 5px;
+    display: inline-block;
+    position: relative;
+    z-index: inherit;
+    line-height: 72px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.selected_path_list {
+    height: 72px;
+    border: solid 1px #999999;
+    line-height: 72px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 28px;
+    position: fixed;
+    top: 40px;
+    left: 340px;
+    background: white;
+    z-index: inherit;
+}
+
+.color_block {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    line-height: 72px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 3px;
+    position: relative;
+    z-index: inherit;
+    width: 50px;
+    height: 50px;
+}
+
+.disSelect {
+    z-index: inherit;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    cursor: pointer;
+}
+
+.disSelect:hover {
+    width: 20px;
+    height: 20px;
+    right: 0;
+    bottom: 0;
+}
+
+
+.split_line_l {
+    line-height: 72px;
+    text-align: center;
+    vertical-align: middle;
+    width: 1px;
+    height: 43px;
+    background: #999999;
+    margin-left: 16px;
+    margin-right: 16px;
+    display: inline-block;
+}

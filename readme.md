@@ -20,6 +20,8 @@ Abstract: ...
 #### python
 * pulp: 2.6.0
 * numpy: 1.19.5
+
+#### browser
 * Google Chrome
 
 ### Install

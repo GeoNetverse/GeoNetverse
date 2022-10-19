@@ -1,6 +1,6 @@
 # Multilevel Visual Analysisof ManyGeo-Networks
 
-[Paper Link](https://zjuidg.org/source/projects/VisCas/VisCas.pdf)
+[Paper Link](...)
 
 Abstract: ...
 
@@ -44,8 +44,8 @@ Install packges of fronetend by using npm (the recommended way): enter GeoNetver
 
 ### Data Processing
 
-To start with, geo-networks.json and geo-nodes-screen.json are required and placed in ...\GeoNetverse\frontend\public\{datasetName}.
-...\GeoNetverse\frontend\server\datasetName.json stores datasetName, to switch the dataset for processing, you only need to change the name in this json file.
+To start with, geo-networks.json and geo-nodes-screen.json are required and placed in ```...\GeoNetverse\frontend\public\{datasetName}```.
+DatasetName is stored in ```...\GeoNetverse\frontend\server\datasetName.json```, to switch the dataset for processing, you only need to change the name in this file.
 
 Then, you can start data processing by following commands orderly:
 

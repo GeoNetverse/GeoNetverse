@@ -1,4 +1,4 @@
-# Multilevel Visual Analysisof ManyGeo-Networks
+# Multilevel Visual Analysisof Many Geo-Networks
 
 * Note1: At present, only two sample datasets are available due to data privacy issues. 
 * Note2: The code quality is being improved. 

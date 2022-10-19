@@ -1,10 +1,5 @@
 # Multilevel Visual Analysisof ManyGeo-Networks
 
-[Paper Link](...)
-
-Abstract: ...
-
-
 ## Installation
 
 ### Prerequisites
@@ -85,7 +80,7 @@ Start frontend by (open another shell):
 
 GeoNetverse can now be accessed via http://localhost:3000 with Chrome.
 
-## Dataset switch
+## Dataset switch (frontend)
 
 There are two datasets, Zhengzhou and Hefei
 
